@@ -12,7 +12,60 @@ I originally tried using LSTMs but was not able to get the model to generalize.
 # Results
 
 The performance of GPT-2 is shockingly impressive. It even manages to rhyme at certain parts.<br/>
-
+```
+I'm struggling to breathe 
+Oh I'm alone, on my own,
+and that's all I know I've never been loved,
+and I know it's not true, but I find comfort in the darkness
+I'm not afraid to be alone, I found my place in the world
+Oh, yeah, I'm gonna ride my bike, I'm gonna stand for something,
+I'm not afraid to stand my ground I'm not afraid to stand my ground
+We are in control, we are in control,
+we are in control, we are in control,
+Our bodies, our hearts, our minds, our souls,
+we are in control, we are in control,
+We are in command, we are in command,
+We can do this, we can do this
+```
+```
+He gets so chubby and round and thin
+And out of his brown coveralls more blood than (his) heroin
+'Cause you broke a wife
+She's back again! She says she loves me
+I say you can't see her like that
+Now is never too late to be brand new
+And your mama got nothing but hurt love on her face
+Can't forgive her, back to it not me
+And your momma said the best thing is to keep it because it ain't nothin' to lose
+Fall in love and when I'm with you
+When I'm negative
+I'm starved and you take it even worse
+And off the series you're missing
+He says we all choose love over fear
+I can't keep you from me
+And you know, I'll be with you tomorrow
+You know, we can do the weekend of the love you forget
+```
+```
+I can't help it I feel perked up
+Even without a man being there
+I can't imagine not living with you
+I love one fine day change everyday
+Came home to find you on my nightstand
+Hug squatted in my nightstand
+That warm perfectly lathered hand on my thigh
+I was talking to her and I blurted out she'd saved my life
+And she said it was too expensive for us
+So I was like, "Well, could've been easy"
+And I don't have any other choice
+But she is who she are
+So I make do, punch sky god
+Then I step out of my house
+Step outside my door to my blue sky creatures
+For my love I have No fear when I'm leaning into you
+You're the reason that I'm by myself
+I'll be the reason you feel alone
+```
 ```
 So don't come and bring me home,
 And don't tell me why you love me…
@@ -52,60 +105,6 @@ It's not easy, it's not easy but you know,
 Just try to take care of each other.
 And it's not easy, it's not easy but just try to be there
 Just try to help the person you love.
-```
-```
-I'm struggling to breathe 
-Oh I'm alone, on my own,
-and that's all I know I've never been loved,
-and I know it's not true, but I find comfort in the darkness
-I'm not afraid to be alone, I found my place in the world
-Oh, yeah, I'm gonna ride my bike, I'm gonna stand for something,
-I'm not afraid to stand my ground I'm not afraid to stand my ground
-We are in control, we are in control,
-we are in control, we are in control,
-Our bodies, our hearts, our minds, our souls,
-we are in control, we are in control,
-We are in command, we are in command,
-We can do this, we can do this
-```
-```
-I can't help it I feel perked up
-Even without a man being there
-I can't imagine not living with you
-I love one fine day change everyday
-Came home to find you on my nightstand
-Hug squatted in my nightstand
-That warm perfectly lathered hand on my thigh
-I was talking to her and I blurted out she'd saved my life
-And she said it was too expensive for us
-So I was like, "Well, could've been easy"
-And I don't have any other choice
-But she is who she are
-So I make do, punch sky god
-Then I step out of my house
-Step outside my door to my blue sky creatures
-For my love I have No fear when I'm leaning into you
-You're the reason that I'm by myself
-I'll be the reason you feel alone
-```
-```
-He gets so chubby and round and thin
-And out of his brown coveralls more blood than (his) heroin
-'Cause you broke a wife
-She's back again! She says she loves me
-I say you can't see her like that
-Now is never too late to be brand new
-And your mama got nothing but hurt love on her face
-Can't forgive her, back to it not me
-And your momma said the best thing is to keep it because it ain't nothin' to lose
-Fall in love and when I'm with you
-When I'm negative
-I'm starved and you take it even worse
-And off the series you're missing
-He says we all choose love over fear
-I can't keep you from me
-And you know, I'll be with you tomorrow
-You know, we can do the weekend of the love you forget
 ```
 The model even tried to credit people for working on the songs??
 ```
