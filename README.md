@@ -2,7 +2,7 @@
 Generating Taylor Swift Lyrics Using GPT-2. <br/>
 These results were obtained using the model with 774 million parameters. It is roughly 3 GBs. <br/>
 Interestingly enough, the 774M model is only around half the size of the model used in the original paper.<br/>
-I originally tried using LSTMs but was not able to get the model to generalize.
+I originally tried using LSTMs but I wasn't able to get the model to generalize.
 
 # Acknowledgements
 * This work is based on OpenAI's [GPT-2](https://github.com/openai/gpt-2) model
