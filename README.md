@@ -19,10 +19,6 @@ And I'll tell you what's on my mind,
 Just tell me you have feelings for me.
 So don't come and bring me home,
 And don't tell me why you love me…
-And I'll tell you what's on my mind,
-Just tell me you have feelings for me.
-So don't come and bring me home,
-And don't tell me why you love me…
 I'm tired, I'm beat 'cause I'm all alone
 And when my friends are with me and I'm not with them.
 'Cause I'm trying to live out my own story
@@ -57,22 +53,72 @@ And it's not easy, it's not easy but just try to be there
 Just try to help the person you love.
 ```
 ```
-@CaseySpencer425 - @ELONmusk and I are not interested in getting married or having kids. We may be open to adoption, but not in a baby-making capacity.
+I'm struggling to breathe 
+Oh I'm alone, on my own,
+and that's all I know I've never been loved,
+and I know it's not true, but I find comfort in the darkness
+I'm not afraid to be alone, I found my place in the world
+Oh, yeah, I'm gonna ride my bike, I'm gonna stand for something,
+I'm not afraid to stand my ground I'm not afraid to stand my ground
+We are in control, we are in control,
+we are in control, we are in control,
+Our bodies, our hearts, our minds, our souls,
+we are in control, we are in control,
+We are in command, we are in command,
+We can do this, we can do this
 ```
 ```
-Elon Musk warned the world would be lost without OPEC #ClimateTalk — Joel Pollak (@joelpollak) July 1, 2017
+I can't help it I feel perked up
+Even without a man being there
+I can't imagine not living with you
+I love one fine day change everyday
+Came home to find you on my nightstand
+Hug squatted in my nightstand
+That warm perfectly lathered hand on my thigh
+I was talking to her and I blurted out she'd saved my life
+And she said it was too expensive for us
+So I was like, "Well, could've been easy"
+And I don't have any other choice
+But she is who she are
+So I make do, punch sky god
+Then I step out of my house
+Step outside my door to my blue sky creatures
+For my love I have No fear when I'm leaning into you
+You're the reason that I'm by myself
+I'll be the reason you feel alone
 ```
 ```
-Announced launch date for next Falcon 9 activity is VAFB from LC-36 at Vandenberg . Expect 22 ULA launches in the pressroom https://t.co/BVNQz3W3bu
+He gets so chubby and round and thin
+And out of his brown coveralls more blood than (his) heroin
+'Cause you broke a wife
+She's back again! She says she loves me
+I say you can't see her like that
+Now is never too late to be brand new
+And your mama got nothing but hurt love on her face
+Can't forgive her, back to it not me
+And your momma said the best thing is to keep it because it ain't nothin' to lose
+Fall in love and when I'm with you
+When I'm negative
+I'm starved and you take it even worse
+And off the series you're missing
+He says we all choose love over fear
+I can't keep you from me
+And you know, I'll be with you tomorrow
+You know, we can do the weekend of the love you forget
 ```
+The model even tried to credit people for working on the songs??
 ```
-RT @TonyAcevedo about 15 minutes ago at 10:00 am PST You can still get that video later to see how progress is to make. No need to upload now!
-```
-```
-@drahutro he was great!  Here he is giving us a tour at their engineering offices in L.A. https://t.co/c2SL5iO3e0
-```
-```
-@CaseySpencer425 @ElonMusk @CarolTouhey @CarolTouhey: I'm sorry to hear about your decision to end your marriage. I'd love to hear your perspective on such a difficult decision. And to help explain why I don't believe in the institution of marriage.
+Written by: Richard Thompson & Robert Taylor
+Recorded by: Gary Ceder and Brian Johnson
+Engineered, Mixed and Mastered by: Gary Ceder, Brian Johnson and Joe Hines
+Additional Instrumental by: Peter Ceder
+Additional Chorus by: Fred Hiesinger
+Additional Organ by: Jim Moulton
+Additional Bass by: John G. Tandy
+Additional Clarinet by: Bob Voss
+Additional Percussion by: John G. Tandy
+Additional Saxophone by: Robert P. O'Neil
+Additional Vocals by: Robert Tabor
 ```
 
 # License
