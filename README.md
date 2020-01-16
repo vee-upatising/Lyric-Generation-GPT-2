@@ -7,7 +7,7 @@ I originally tried using LSTMs but I wasn't able to get the model to generalize.
 # Acknowledgements
 * This work is based on OpenAI's [GPT-2](https://github.com/openai/gpt-2) model
 * [Original Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-* The model is prompted with data obtained from this [Kaggle Dataset](https://www.kaggle.com/PromptCloudHQ/taylor-swift-song-lyrics-from-all-the-albums)
+* The model is fine tuned with data obtained from this [Kaggle Dataset](https://www.kaggle.com/PromptCloudHQ/taylor-swift-song-lyrics-from-all-the-albums)
 
 # Results
 
